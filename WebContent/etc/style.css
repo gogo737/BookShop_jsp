@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+@font-face { 
+     font-family: "ko";  
+     src:url("KoPubWorld Dotum Medium.ttf");
+}     
+body {
+	font-family:"ko";
+	font-size: 9pt; 
+	text-align: center;
+}
+
+table {
+	font-family:"ko";
+	font-size: 11pt;
+	text-align: center;
+	border: 1pt solid black;
+}
+
+select {
+	font-family:"ko";
+	font-size: 9pt; 
+}
+
+a{
+	A:hover {text-decoration:none; color:red;}
+}
+form {
+	font-family:"ko";
+	font-size: 9pt; 
+}
+
+p{
+	font-family:"ko";
+	font-weight: 700;
+}
+
+b{
+	font-family:"ko";
+	font-size: 12pt;
+	text-align: center;
+}
+h3{
+	
+	margin-top:20;
+	margin-bottom:0;
+	font-family:"ko";
+	font-size: 16pt;
+	text-align: center;
+}
+  
